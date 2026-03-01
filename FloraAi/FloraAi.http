@@ -1,0 +1,6 @@
+@FloraAi_HostAddress = http://localhost:5263
+
+GET {{FloraAi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
